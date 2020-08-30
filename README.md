@@ -1,13 +1,11 @@
-# Plantilla FrontEnd
-##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
+# Furgón Helado
+##### Proyecto para llevar a todos los lados los helados de una furgoneta.
 
 ~~~
-Metodología de carpetas en FrontEnd
-Estructura en imágenes (svg, jpg, iconos, etc)
-Readme, licencia MIT, gitignore
-Fuentes externas al OS
-Semiestructuras en código
-Comentarios introductorios
+Idea inicial, desarrollo en Smartphone.
+
+Desde el Wireframe y Mockup en Figma. (carpeta doc).
+Con el concepto claro de la página de inicio se estan probando varias simulaciones.
 ~~~
 
 > Este contenido se ha creado para mís alumnos, que se inician en el maravilloso mundo de la programación.
